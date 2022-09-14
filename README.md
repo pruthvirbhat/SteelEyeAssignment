@@ -17,4 +17,5 @@ In config.ini, below information has to be provided
 - command to execute : python run.py config.ini
 - command to execute unittest: python -m unittest
 
-![Sample Output](https://github.com/pruthvirbhat/SteelEyeAssignment/SteelEye.png)
+## Sample Output
+![Sample Output](SteelEye.png)
